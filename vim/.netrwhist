@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/callport/projects/uspto/PE2E-EST-SOLR-DEV/solr-4.10.2/solr/cores'
+let g:netrw_dirhist_2='/Users/callport/projects/uspto/PE2E-EST-SOLR-DEV/solr-4.10.2/solr/cores/us_patent_grant'
+let g:netrw_dirhist_3='/Users/callport/projects/uspto/vagrant_puppet/code/frontend/bower_components'
+let g:netrw_dirhist_4='/Users/callport/projects/uspto/vagrant_puppet/code/frontend/bower_components/util'
+let g:netrw_dirhist_5='/Users/callport/projects/uspto/vagrant_puppet/code/frontend/bower_components/util/build'
